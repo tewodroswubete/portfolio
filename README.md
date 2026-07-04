@@ -1,6 +1,8 @@
 # Tewodros Wubete — Portfolio
 
-A fast, accessible, single-page developer portfolio built with **plain HTML, CSS, and JavaScript** — no build step, no dependencies. Designed to be hosted for free on **GitHub Pages**.
+Portfolio of **Tewodros Wubete** — Senior ERP Developer | Odoo Expert | Flutter Developer | Software Solution Architect.
+
+A fast, accessible, single-page portfolio built with **plain HTML, CSS, and JavaScript** — no build step, no dependencies. Hosted for free on **GitHub Pages**: https://tewodroswubete.github.io/portfolio
 
 ## ✨ Features
 
